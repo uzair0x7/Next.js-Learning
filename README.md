@@ -1,6 +1,6 @@
 <div align="center">
 
-# Next.js Learning 🚀
+# Next.js Learning 
 
 ### A hands-on journey from Next.js fundamentals to advanced full-stack applications.
 
