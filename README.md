@@ -1,6 +1,6 @@
 <div align="center">
 
-# Next.js Learning 
+# Next.js Learning !
 
 ### A hands-on journey from Next.js fundamentals to advanced full-stack applications.
 
@@ -323,7 +323,7 @@ Eventually, I aim to build projects involving:
 * Payments
 * File uploads
 * Admin dashboards
-* SaaS functionality
+* SaaS functionalities
 * Performance optimization
 * Production deployment
 
